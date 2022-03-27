@@ -22,6 +22,7 @@ const nextConfig = {
         SMTP_FROM_NAME: "AdrienNguyen",
         SMTP_FROM_EMAIL: "phuong.na163228@gmail.com",
         NEXTAUTH_URL: "https://adrien-bookit.vercel.app",
+        SECRET: "c82c4ed4535fc5d21fef1290c39de6b3",
     },
     images: {
         domains: ["res.cloudinary.com"],
