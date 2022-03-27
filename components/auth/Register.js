@@ -125,7 +125,6 @@ const Register = () => {
                                             src={avatarPreview}
                                             className="rounded-circle"
                                             alt="image"
-                                            loader=""
                                         />
                                     </figure>
                                 </div>

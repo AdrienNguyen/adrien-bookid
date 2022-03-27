@@ -171,7 +171,6 @@ const RoomDetail = () => {
                                         src={image.url}
                                         alt={room.name}
                                         layout="fill"
-                                        loader=""
                                     />
                                 </div>
                             </Carousel.Item>

@@ -79,7 +79,6 @@ const BookingDetails = () => {
                                             }
                                             height={45}
                                             width={65}
-                                            loader=""
                                         />
                                     </div>
 
